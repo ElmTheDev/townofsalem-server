@@ -1,0 +1,6 @@
+module.exports = {
+    JOINED_LOBBY: '020101',
+    BEGIN_LOBBY_COUNTER: '0B',
+    STOP_LOBBY_COUNTER: '0C',
+    VOTES_REMAINING_HOST: '0E0A'
+};

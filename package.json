@@ -1,0 +1,25 @@
+{
+  "name": "townofsalem-server",
+  "version": "1.0.0",
+  "description": "- This is my attempt in rewriting Town of Salem socket server so I could experiment in the game without ruining anyones experience and getting banned!",
+  "main": "index.js",
+  "dependencies": {
+    "uuid": "^8.3.0",
+    "uuid-random": "^1.3.2",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElmTheDev/townofsalem-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElmTheDev/townofsalem-server/issues"
+  },
+  "homepage": "https://github.com/ElmTheDev/townofsalem-server#readme"
+}
